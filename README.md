@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Ankit%20Mahule&fontSize=52&fontColor=00BFFF&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&fontStyle=bold&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Ankit+Mahule&fontSize=52&fontColor=00BFFF&fontAlignY=38&desc=AI+%26+ML+Developer+%7C+Building+Intelligent+Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer+%F0%9F%A7%A0;LLM+Engineer+%26+GenAI+Builder+%F0%9F%A4%96;RAG+Systems+%7C+AI+Agents+%7C+NLP+%F0%9F%9A%80;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
@@ -177,7 +177,7 @@ print(me.motto())
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=twinkling" />
 
 ### 💬 *"Turning Data into Intelligence, and Ideas into Code."*
 
