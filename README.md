@@ -1,6 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Ankit+Mahule&fontSize=52&fontColor=00BFFF&fontAlignY=38&desc=AI+%26+ML+Developer+%7C+Building+Intelligent+Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Reliable SVG Banner - works on all GitHub renderers -->
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <path id="wave" d="M0,160 C300,100 900,220 1200,140 L1200,200 L0,200 Z"/>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)" rx="0"/>
+  <path d="M0,160 C300,100 900,220 1200,140 L1200,200 L0,200 Z" fill="#00BFFF" opacity="0.15"/>
+  <path d="M0,170 C400,120 800,200 1200,155 L1200,200 L0,200 Z" fill="#00BFFF" opacity="0.08"/>
+  <text x="600" y="95" font-family="monospace" font-size="48" font-weight="bold" fill="#00BFFF" text-anchor="middle">Ankit Mahule</text>
+  <text x="600" y="140" font-family="monospace" font-size="18" fill="#a0c4ff" text-anchor="middle">AI &amp; ML Developer · Building Intelligent Systems 🤖</text>
+</svg>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer+%F0%9F%A7%A0;LLM+Engineer+%26+GenAI+Builder+%F0%9F%A4%96;RAG+Systems+%7C+AI+Agents+%7C+NLP+%F0%9F%9A%80;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
@@ -177,7 +192,19 @@ print(me.motto())
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=twinkling" />
+<!-- SVG Footer Wave -->
+<svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#16213e"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" fill="url(#footerbg)"/>
+  <path d="M0,20 C200,60 400,0 600,30 C800,60 1000,10 1200,35 L1200,80 L0,80 Z" fill="#00BFFF" opacity="0.2"/>
+  <path d="M0,40 C300,10 600,55 900,25 C1050,10 1150,45 1200,50 L1200,80 L0,80 Z" fill="#00BFFF" opacity="0.1"/>
+</svg>
 
 ### 💬 *"Turning Data into Intelligence, and Ideas into Code."*
 
