@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Reliable SVG Banner - works on all GitHub renderers -->
+<!-- SVG Header Banner — rendered by GitHub natively, always works -->
 <svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -8,25 +8,31 @@
       <stop offset="50%" style="stop-color:#1a1a2e"/>
       <stop offset="100%" style="stop-color:#16213e"/>
     </linearGradient>
-    <path id="wave" d="M0,160 C300,100 900,220 1200,140 L1200,200 L0,200 Z"/>
   </defs>
-  <rect width="1200" height="200" fill="url(#bg)" rx="0"/>
+  <rect width="1200" height="200" fill="url(#bg)"/>
   <path d="M0,160 C300,100 900,220 1200,140 L1200,200 L0,200 Z" fill="#00BFFF" opacity="0.15"/>
-  <path d="M0,170 C400,120 800,200 1200,155 L1200,200 L0,200 Z" fill="#00BFFF" opacity="0.08"/>
-  <text x="600" y="95" font-family="monospace" font-size="48" font-weight="bold" fill="#00BFFF" text-anchor="middle">Ankit Mahule</text>
-  <text x="600" y="140" font-family="monospace" font-size="18" fill="#a0c4ff" text-anchor="middle">AI &amp; ML Developer · Building Intelligent Systems 🤖</text>
+  <path d="M0,175 C400,130 800,195 1200,160 L1200,200 L0,200 Z" fill="#00BFFF" opacity="0.08"/>
+  <circle cx="80" cy="50" r="2" fill="#00BFFF" opacity="0.6"/>
+  <circle cx="200" cy="30" r="1.5" fill="#00BFFF" opacity="0.4"/>
+  <circle cx="350" cy="60" r="1" fill="#a0c4ff" opacity="0.5"/>
+  <circle cx="500" cy="25" r="2" fill="#00BFFF" opacity="0.3"/>
+  <circle cx="700" cy="45" r="1.5" fill="#a0c4ff" opacity="0.6"/>
+  <circle cx="900" cy="20" r="2" fill="#00BFFF" opacity="0.4"/>
+  <circle cx="1050" cy="55" r="1" fill="#a0c4ff" opacity="0.5"/>
+  <circle cx="1150" cy="35" r="2" fill="#00BFFF" opacity="0.3"/>
+  <text x="600" y="90" font-family="monospace" font-size="50" font-weight="bold" fill="#00BFFF" text-anchor="middle" letter-spacing="2">Ankit Mahule</text>
+  <text x="600" y="135" font-family="monospace" font-size="17" fill="#a0c4ff" text-anchor="middle">AI &amp; ML Developer  ·  LLM Engineer  ·  GenAI Builder  🤖</text>
 </svg>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer+%F0%9F%A7%A0;LLM+Engineer+%26+GenAI+Builder+%F0%9F%A4%96;RAG+Systems+%7C+AI+Agents+%7C+NLP+%F0%9F%9A%80;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<!-- Typing Animation — demolab is reliable and works on GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+Career+Assistant+%F0%9F%8E%AF;Building+AI+Deal+Analyzer+%F0%9F%93%8A;LangChain+%7C+RAG+%7C+LLM+Engineering;Turning+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-mahule-11xybl)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codexankiiit31)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitmahule88@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=codexankiiit31&style=for-the-badge&color=00BFFF)
+![Profile Views](https://komarev.com/ghpvc/?username=codexankiiit31&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -149,30 +155,23 @@ print(me.motto())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codexankiiit31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codexankiiit31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexankiiit31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codexankiiit31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexankiiit31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Skills
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codexankiiit31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codexankiiit31&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff" />
+| 🎯 AI Projects | 🧠 Core Skills | 🌱 Currently Learning |
+|:-:|:-:|:-:|
+| AI Career Assistant | LLM Engineering | LangGraph |
+| AI Deal Analyzer | RAG Pipelines | Multi-Agent Systems |
+| Conversational AI Bots | NLP & Deep Learning | LLM Fine-tuning |
+| Smart Automation Tools | FastAPI + Streamlit | Agentic AI |
 
 </div>
 
@@ -181,18 +180,18 @@ print(me.motto())
 ## 🎯 Current Focus
 
 ```
-🔭  Building → AI Career Assistant & AI Deal Analyzer
-🌱  Learning → LangGraph • Multi-Agent Systems • Advanced RAG
-👯  Open to  → AI/ML Collaborations & Open Source Projects
-💡  Exploring → Agentic AI • Vector Databases • LLM Fine-tuning
-📝  Sharing  → AI insights & project updates on LinkedIn
+🔭  Building  →  AI Career Assistant & AI Deal Analyzer
+🌱  Learning  →  LangGraph • Multi-Agent Systems • Advanced RAG
+👯  Open to   →  AI/ML Collaborations & Open Source Projects
+💡  Exploring →  Agentic AI • Vector Databases • LLM Fine-tuning
+📝  Sharing   →  AI insights & project updates on LinkedIn
 ```
 
 ---
 
 <div align="center">
 
-<!-- SVG Footer Wave -->
+<!-- SVG Footer — inline, always works -->
 <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
